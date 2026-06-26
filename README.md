@@ -27,4 +27,4 @@ Em breve você encontrará aqui meus projetos desenvolvidos durante meus estudos
 
 - GitHub: https://github.com/neto09dev09-star
 
-Obrigado por visitar meu perfil! 🚀
+Obrigado por visitar meu perfil! 
