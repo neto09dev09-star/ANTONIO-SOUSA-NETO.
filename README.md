@@ -1,16 +1,30 @@
-## Hi there 👋
+lá! 👋
 
-<!--
-**neto09dev09-star/neto09dev09-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
 
-Here are some ideas to get you started:
+Meu nome é Antonio Santos e sou estudante, apaixonado por tecnologia e desenvolvimento de software. Atualmente estou aprendendo programação, Git, GitHub e desenvolvimento de aplicativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologias
+
+- Git
+- GitHub
+- Figma
+- Inteligência Artificial
+- Lógica de Programação
+
+🎯 Objetivos
+
+- Aprender novas tecnologias.
+- Desenvolver projetos úteis.
+- Evoluir como desenvolvedor.
+- Construir um portfólio profissional.
+
+📂 Projetos
+
+Em breve você encontrará aqui meus projetos desenvolvidos durante meus estudos.
+
+📫 Contato
+
+- GitHub: https://github.com/neto09dev09-star
+
+Obrigado por visitar meu perfil! 🚀
